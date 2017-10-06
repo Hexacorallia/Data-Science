@@ -1,2 +1,1 @@
-# Data-Science
-Test
+Taking Data Science course on Coursera
