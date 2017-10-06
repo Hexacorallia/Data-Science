@@ -1,1 +1,1 @@
-Taking Data Science course on Coursera
+Taking Data Science course from Johns Hopkins University on Coursera
